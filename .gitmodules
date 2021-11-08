@@ -1,3 +1,9 @@
 [submodule "leg"]
 	path = leg
 	url = git@github.com:MrBigFly/leg.git
+[submodule "AlphaVideo"]
+	path = AlphaVideo
+	url = git@github.com:MrBigFly/AlphaVideo.git
+[submodule "drawGift"]
+	path = drawGift
+	url = git@github.com:MrBigFly/drawGift.git
